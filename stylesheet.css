@@ -1309,9 +1309,4 @@ o @keyframes bannar_come {
   background-color: #466baf;
 }
 
-/*controlling tablet width*/
-/* @media only screen and (min-width: 720px) {
-  .container {
-    -webkit-transform: scale(0.9);
-  }
-} */
+
